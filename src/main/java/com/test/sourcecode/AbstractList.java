@@ -1,6 +1,6 @@
 
 
-package com.yyl.sourcecode;
+package com.test.sourcecode;
 
 import java.util.AbstractCollection;
 import java.util.AbstractSequentialList;

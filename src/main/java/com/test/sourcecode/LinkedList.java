@@ -1,8 +1,7 @@
-package com.yyl.sourcecode;
+package com.test.sourcecode;
 
 import java.util.AbstractSequentialList;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.ConcurrentModificationException;
 import java.util.Deque;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package com.yyl.sourcecode;
+package com.test.sourcecode;
 
 import org.junit.Test;
 

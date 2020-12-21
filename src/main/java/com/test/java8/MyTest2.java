@@ -1,4 +1,4 @@
-package com.yyl.java8;
+package com.test.java8;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -12,7 +12,7 @@ import java.util.function.Predicate;
 
 /**
  * @Author yang.yonglian
- * @ClassName: com.yyl
+ * @ClassName: com.test
  * @Description: 符合lambda表达式
  * @Date 2019/6/21 0021
  */
@@ -34,7 +34,7 @@ public class MyTest2 {
     }
 
     public static String addHeader(String text){
-        return "From yyl: "+text;
+        return "From test: "+text;
     }
 
     public static String addFooter(String text){

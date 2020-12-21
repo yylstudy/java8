@@ -1,18 +1,15 @@
-package com.yyl.java8;
+package com.test.java8;
 
 import java.util.AbstractMap;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
  * @Author yang.yonglian
- * @ClassName: com.yyl
+ * @ClassName: com.test
  * @Description: 根据List下表分组
  * @Date 2019/7/1 0001
  */

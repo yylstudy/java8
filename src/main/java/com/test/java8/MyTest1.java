@@ -1,18 +1,15 @@
-package com.yyl.java8;
+package com.test.java8;
 
 import lombok.Getter;
 import lombok.Setter;
 
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.function.Predicate;
 
 /**
  * @Author yang.yonglian
- * @ClassName: com.yyl
+ * @ClassName: com.test
  * @Description: 集合排序
  * @Date 2019/6/19 0019
  */

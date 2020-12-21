@@ -1,4 +1,4 @@
-package com.yyl.java8;
+package com.test.java8;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -6,10 +6,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /**
  * @Description: stream 函数式数据处理

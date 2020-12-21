@@ -1,4 +1,4 @@
-package com.yyl.sourcecode;
+package com.test.sourcecode;
 
 import java.util.Arrays;
 import java.util.BitSet;
@@ -903,7 +903,7 @@ public class ArrayList<E> extends AbstractList<E>
      * 4. 所以 Iterator 在工作的时候是不允许被迭代的对象被改变的。
      * 但你可以使用 Iterator 本身的方法 remove() 来删除对象，
      * 5. Iterator.remove() 方法会在删除当前迭代对象的同时维护索引的一致性。
-     * @author yyl-pc
+     * @author test-pc
      *
      */
     private class Itr implements Iterator<E> {

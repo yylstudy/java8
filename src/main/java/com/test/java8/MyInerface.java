@@ -1,4 +1,4 @@
-package com.yyl.java8;
+package com.test.java8;
 
 import java.util.Arrays;
 
